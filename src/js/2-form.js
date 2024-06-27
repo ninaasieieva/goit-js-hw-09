@@ -53,8 +53,3 @@ function handlerSubmit(event) {
     formData.message = "";
     form.reset();
 }
-
-
-
-
-
